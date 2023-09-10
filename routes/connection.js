@@ -1,7 +1,6 @@
 const mongoose = require("mongoose")
 
-const MONGO_URL = 'mongodb://127.0.0.1:27017/officehub';
-// const MONGO_URL = 'mongodb+srv://vatsaljajadiya1310:8iII8939646@cluster0.oahfaag.mongodb.net/officehub';
+const MONGO_URL = process.env.MONGOURL;
 
 mongoose.set("strictQuery", false);
 

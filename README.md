@@ -13,20 +13,6 @@
 
 The aim of this project was to design and develop a Smart office that can effectively manage documents and employees streamline and the document-related processes in an organization. The OFFICE HUB is an online platform that enables users to upload, store, share, Approve and manage their documents securely in a centralized location. The system includes features such as access control, document search, document sharing, Team Creation, Chating with Team Members, Project status and Workflow Automation. which improve collaboration and communication within the organization. The project involved conducting extensive research on existing SMART OFFICE solutions, analyzing user requirements, and developing a system architecture and user interface that meets the needs of the users. 
 
-## Requirements
-
-Hardware Requirements: 
-Following are the hardware requirements to build this website.
-1. A device like laptop or pc.
-2. RAM of 4GB
-3. Storage of atleast 1GB
-
-Software Requirements:
-Following are the software requirements to build this website.
-1. Updated chrome or other browser(chrome is highly recommended).
-2. MongoDb Compass for database
-3. For running locally use localhost
-
 ## Installation
 
 1. First you need to install all packages using npm i command

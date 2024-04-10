@@ -35,7 +35,7 @@ The aim of this project was to design and develop a Smart office that can effect
 
 ![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/97761811-e516-42d1-9eab-917a2b171a65)
 
-![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/d010c954-6557-42f0-bda1-2aa9f8bee4f3)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/f1cd7c2b-b8bb-4c1b-882f-a7da4edf3744)
 
 ![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/725f9a63-61a8-4317-8da4-8f30bbc55031)
 

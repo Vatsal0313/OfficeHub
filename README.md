@@ -29,15 +29,15 @@ The aim of this project was to design and develop a Smart office that can effect
 3. when login threw user account gives features of team joining, Document uploading, Document Searching/Downloading, Access Control, Chat with members, Update therir project status, Send project for approval Process.
 
 ## Screen Shots
-![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/35b3dd6f-a77a-407b-8716-28bcf4da5940)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/18d58c99-7c1c-42d5-9a65-215a5696c086)
 
-![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/b6fa8a84-71b3-4425-847d-f4b34dd776b1)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/26c7275c-1e34-4ec5-9ae3-933d2c86888b)
 
-![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/40737147-5c21-488b-9246-32075604a756)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/97761811-e516-42d1-9eab-917a2b171a65)
 
 ![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/d010c954-6557-42f0-bda1-2aa9f8bee4f3)
 
-![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/6f387b9f-643c-44d1-b25d-ee8ada66d84b)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/725f9a63-61a8-4317-8da4-8f30bbc55031)
 
 ![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/d1520903-5c4b-45e2-8485-47025c215dc1)
 ![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/e95bf962-6605-4d82-9789-5a42db17fcee)

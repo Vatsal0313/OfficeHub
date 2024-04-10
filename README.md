@@ -27,3 +27,26 @@ The aim of this project was to design and develop a Smart office that can effect
 1. Contain two sides in one web, user/admin
 2. when login threw admin account gives features of Team Creation, Admin profile change, add admin, add Employee, Document Approval and Team Management.
 3. when login threw user account gives features of team joining, Document uploading, Document Searching/Downloading, Access Control, Chat with members, Update therir project status, Send project for approval Process.
+
+## Screen Shots
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/35b3dd6f-a77a-407b-8716-28bcf4da5940)
+
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/b6fa8a84-71b3-4425-847d-f4b34dd776b1)
+
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/40737147-5c21-488b-9246-32075604a756)
+
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/d010c954-6557-42f0-bda1-2aa9f8bee4f3)
+
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/6f387b9f-643c-44d1-b25d-ee8ada66d84b)
+
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/d1520903-5c4b-45e2-8485-47025c215dc1)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/e95bf962-6605-4d82-9789-5a42db17fcee)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/ae6f88c0-8811-4ca8-a464-a838814b7941)
+
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/4702ec6a-8a4f-452b-92a5-840cc188a17d)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/71124c6a-4902-4673-b8bb-88cdc12e69c4)
+![image](https://github.com/Vatsal0313/OfficeHub/assets/117883036/f1d9c66c-4dce-4dfe-9360-d4f1cbd1ad1b)
+
+
+
+
